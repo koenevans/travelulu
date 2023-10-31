@@ -155,7 +155,7 @@ h4.black{
     --bs-tooltip-color: var(--bs-white);
   }
 
-.btn-light{
+.btn-light1{
     color: var(--primary-default, #5F2EEA);
     text-align: center;
     font-feature-settings: 'clig' off, 'liga' off;
@@ -349,7 +349,7 @@ h6{
     .imgstart{
         max-width: 400px;
     }
-    .btn-light{
+    .btn-light1{
         min-width: 140px;
         font-size: 12px;
     }
